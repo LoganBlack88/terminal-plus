@@ -11,3 +11,8 @@ https://github.com/BobZhao/OpenTerminalHere/blob/master/src/com/bobz/action/Open
 http://www.jetbrains.org/intellij/sdk/docs/index.html
 
 http://www.jetbrains.org/intellij/sdk/docs/user_interface_components/tool_windows.html
+
+
+
+FAQS:
+http://www.jetbrains.org/intellij/sdk/docs/faq.html
